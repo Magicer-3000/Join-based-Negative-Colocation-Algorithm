@@ -1,3 +1,0 @@
-The data and codes are from the Guangxi Key Laboratory of Spatial Information and Geomatics. 
-Due to the confidentiality mechanism of the research group, only part of the code can be provided. 
-But enough to illustrate the idea and implementation.
